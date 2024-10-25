@@ -99,7 +99,7 @@ under the conditions ~ of the licence contract with cyber:con GmbH. -->
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-archiver</artifactId>
-      <version>2.4.4</version>
+      <version>2.6.2</version>
       <exclusions>
         <exclusion>
           <artifactId>plexus-container-default</artifactId>
@@ -124,7 +124,7 @@ under the conditions ~ of the licence contract with cyber:con GmbH. -->
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
       <artifactId>plexus-io</artifactId>
-      <version>2.0.10</version>
+      <version>2.1.2</version>
     </dependency>
     <dependency>
       <groupId>org.codehaus.plexus</groupId>
